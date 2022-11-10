@@ -1,5 +1,5 @@
 tämä on muutos
-testataan merge konfliktia
+testataan kahdessa paikassa konfliktia
 dfalkwjfgoösahdngjlöksdafs
 dfalkwjfgoösahdngjlöksdafs
 dfalkwjfgoösahdngjlöksdafs
