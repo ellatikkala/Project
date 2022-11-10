@@ -20,4 +20,9 @@ dfalkwjfgoösahdngjlöksdafs
 
 dfalkwjfgoösahdngjlöksdafs
 
+<<<<<<< Updated upstream
 Tämä on muutos
+=======
+tämä on muutos
+
+>>>>>>> Stashed changes
